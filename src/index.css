@@ -10,6 +10,8 @@ body {
 .cart-item {
   display: flex;
   margin: 20px 10px;
+  /* font-family: cursive; */
+  /* color: rgb(226, 145, 159); */
 }
 .cart-item .right-block {
   padding: 0 20px;
